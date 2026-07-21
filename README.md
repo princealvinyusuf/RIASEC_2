@@ -1,2 +1,2 @@
-# RIASEC_2
-Riasec seconds scalling
+# RIASEC-test
+Its a simple website which is used to take psycometric test known as RIASEC. 
